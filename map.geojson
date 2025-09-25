@@ -45,7 +45,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Number": 345
+      },
       "geometry": {
         "coordinates": [
           [
@@ -80,7 +82,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
@@ -118,7 +121,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Number": 444
+      },
       "geometry": {
         "coordinates": [
           [
@@ -153,7 +158,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
@@ -191,7 +197,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Number": 675
+      },
       "geometry": {
         "coordinates": [
           [
@@ -218,11 +226,14 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 5
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Number": 453
+      },
       "geometry": {
         "coordinates": [
           [
@@ -249,11 +260,14 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 6
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Number ": 800
+      },
       "geometry": {
         "coordinates": [
           [
@@ -280,7 +294,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 7
     },
     {
       "type": "Feature",
@@ -370,28 +385,6 @@
         "type": "Polygon"
       },
       "id": 9
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          53.701987859769105,
-          23.914476421145736
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          53.70581877339245,
-          23.90935297662834
-        ],
-        "type": "Point"
-      }
     }
   ]
 }
