@@ -1,0 +1,514 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5027,
+          59.2745
+        ]
+      },
+      "properties": {
+        "name": "Kårstø Processing Plant (Center)",
+        "type": "Facility Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5025,
+          59.2748
+        ]
+      },
+      "properties": {
+        "name": "T100 (Inlet Separator - 1st Stage)",
+        "type": "Processing Unit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5028,
+          59.275
+        ]
+      },
+      "properties": {
+        "name": "T200 (De-ethanizer Column)",
+        "type": "Processing Unit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5029,
+          59.2752
+        ]
+      },
+      "properties": {
+        "name": "T400 / Additional Processing",
+        "type": "Processing Unit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5032,
+          59.2751
+        ]
+      },
+      "properties": {
+        "name": "Buffer Tanks (Feed & Process Storage)",
+        "type": "Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.504,
+          59.2742
+        ]
+      },
+      "properties": {
+        "name": "Propane (C3) Storage / Butane (C4) Storage",
+        "type": "Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5038,
+          59.274
+        ]
+      },
+      "properties": {
+        "name": "Isobutane Storage Tanks",
+        "type": "Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5035,
+          59.2738
+        ]
+      },
+      "properties": {
+        "name": "Stabilized Condensate Storage Tanks",
+        "type": "Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5015,
+          59.2755
+        ]
+      },
+      "properties": {
+        "name": "Propane Storage Caverns (Underground)",
+        "type": "Underground Storage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5055,
+          59.273
+        ]
+      },
+      "properties": {
+        "name": "Export Jetties",
+        "type": "Marine Infrastructure"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4887351,
+              59.2749528
+            ],
+            [
+              5.4887528,
+              59.2744097
+            ],
+            [
+              5.4895993,
+              59.2739957
+            ],
+            [
+              5.4915725,
+              59.2739957
+            ],
+            [
+              5.4923693,
+              59.2743952
+            ],
+            [
+              5.4923279,
+              59.2749976
+            ],
+            [
+              5.4887351,
+              59.2749528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4926944,
+              59.2744531
+            ],
+            [
+              5.4928083,
+              59.2721301
+            ],
+            [
+              5.4958287,
+              59.2721176
+            ],
+            [
+              5.4958349,
+              59.2744966
+            ],
+            [
+              5.4926944,
+              59.2744531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4963769,
+              59.2752385
+            ],
+            [
+              5.4969078,
+              59.2746278
+            ],
+            [
+              5.4993985,
+              59.2751779
+            ],
+            [
+              5.498832,
+              59.2758711
+            ],
+            [
+              5.4963769,
+              59.2752385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.4927688,
+              59.2720047
+            ],
+            [
+              5.4928035,
+              59.2714403
+            ],
+            [
+              5.4958976,
+              59.2714403
+            ],
+            [
+              5.4959188,
+              59.2720047
+            ],
+            [
+              5.4927688,
+              59.2720047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5041428,
+              59.275994
+            ],
+            [
+              5.5042106,
+              59.2740283
+            ],
+            [
+              5.5100443,
+              59.2740419
+            ],
+            [
+              5.5100215,
+              59.2760547
+            ],
+            [
+              5.5041428,
+              59.275994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5008351,
+              59.2774441
+            ],
+            [
+              5.5008717,
+              59.2761922
+            ],
+            [
+              5.5101008,
+              59.276269
+            ],
+            [
+              5.5101537,
+              59.2775263
+            ],
+            [
+              5.5008351,
+              59.2774441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5123253,
+              59.2758659
+            ],
+            [
+              5.5123552,
+              59.2743946
+            ],
+            [
+              5.5148333,
+              59.2743946
+            ],
+            [
+              5.5148165,
+              59.2759059
+            ],
+            [
+              5.5123253,
+              59.2758659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5008038,
+              59.2755098
+            ],
+            [
+              5.5019482,
+              59.2759459
+            ],
+            [
+              5.5037571,
+              59.2759859
+            ],
+            [
+              5.5039055,
+              59.2742104
+            ],
+            [
+              5.5008912,
+              59.2742104
+            ],
+            [
+              5.5008038,
+              59.2755098
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5212478,
+              59.2802586
+            ],
+            [
+              5.5212489,
+              59.2774342
+            ],
+            [
+              5.5246794,
+              59.2774968
+            ],
+            [
+              5.524753,
+              59.2803129
+            ],
+            [
+              5.5212478,
+              59.2802586
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5147874,
+              59.2773865
+            ],
+            [
+              5.5148683,
+              59.2761581
+            ],
+            [
+              5.5166884,
+              59.2762005
+            ],
+            [
+              5.516659,
+              59.2765003
+            ],
+            [
+              5.5173742,
+              59.2765147
+            ],
+            [
+              5.5173284,
+              59.2774168
+            ],
+            [
+              5.5147874,
+              59.2773865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.5210631,
+              59.2758941
+            ],
+            [
+              5.5210483,
+              59.2749301
+            ],
+            [
+              5.5244208,
+              59.2749391
+            ],
+            [
+              5.5244504,
+              59.2752485
+            ],
+            [
+              5.5234445,
+              59.2753971
+            ],
+            [
+              5.523438,
+              59.2759039
+            ],
+            [
+              5.5210631,
+              59.2758941
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
